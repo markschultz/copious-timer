@@ -1,5 +1,6 @@
 ﻿namespace FsWeb.Controllers
 
+open System.Web
 open System.Web.Mvc
 
 [<HandleError>]
