@@ -9,8 +9,9 @@
     <OutputType>Library</OutputType>
     <RootNamespace>copious_timerWebAppApi</RootNamespace>
     <AssemblyName>copious_timerWebAppApi</AssemblyName>
-    <targetframeworkversion>4.5</targetframeworkversion>
+    <targetframeworkversion>v4.5</targetframeworkversion>
     <Name>WebAppApi</Name>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
